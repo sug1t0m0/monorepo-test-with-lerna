@@ -1,6 +1,6 @@
 {
-  "name": "y",
-  "version": "0.0.0",
+  "name": "app1",
+  "version": "1.0.0",
   "description": "> TODO: description",
   "author": "tomohiko.sugiyama <tomohiko.sugiyama@sprocket.bz>",
   "homepage": "https://github.com/sug1t0m0/monorepo-test-with-lerna/tree/main/packages/app1#readme",
