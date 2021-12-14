@@ -1,0 +1,19 @@
+{
+  "name": "y",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "tomohiko.sugiyama <tomohiko.sugiyama@sprocket.bz>",
+  "homepage": "https://github.com/sug1t0m0/monorepo-test-with-lerna/tree/main/packages/app1#readme",
+  "license": "ISC",
+  "main": "lib/app1.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}

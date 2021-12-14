@@ -1,0 +1,22 @@
+{
+  "name": "monorepo-test-with-lerna",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sug1t0m0/monorepo-test-with-lerna.git"
+  },
+  "author": "@sug1t0m0",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sug1t0m0/monorepo-test-with-lerna/issues"
+  },
+  "homepage": "https://github.com/sug1t0m0/monorepo-test-with-lerna#readme",
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  }
+}
